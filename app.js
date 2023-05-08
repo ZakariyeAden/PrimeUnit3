@@ -52,3 +52,39 @@ food.unshift('sesame');
 // check if it has chicken
 //}
 
+let index = 0;
+const max = 10;
+while(index < max){
+  console.log('in while loop:', index);
+  index++;
+}
+console.log('in After while loop:', index);
+
+
+for(let i = 0; i < max; i++){
+  console.log('In for loop', i);
+}
+
+let hand = ['K', 'Q', 'A', 'J', '1','2','3'];
+
+for(let i = 0; i < hand.length; i++){
+  console.log('for loop', hand[i]);
+  if(hand[i] === '3'){
+    console.log('Match');
+  }
+}
+
+// For In : it behaves the same way
+for(i in hand){
+  console.log('for in loop', hand[i]);
+  if(hand[ i ] === '3'){
+    console.log('Match');
+  }
+}
+
+for(card of hand){
+  console.log('for of loop', card);
+  if(card === '3'){
+    console.log('Match');
+  }
+}
