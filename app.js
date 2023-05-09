@@ -88,3 +88,25 @@ for(card of hand){
     console.log('Match');
   }
 }
+
+// ******** Practical TeamWork EFFECTIVE QUESTIONS AND RESEARCH ******** //
+
+// Effective questions and efficient online research are critical professional skills. In this video, we introduce techniques in online search, storing resources, and sharing valuable links.
+// 1.) Search what you are looking for Example: Google alot
+// 2.) Store the data and remember.Also can use it in the future
+// 3.) Share your knowledge so many other people can benefit from it.
+
+ // **** Advice
+ // Frame your questions 3 different ways
+
+ // 10 tab rule. Scan multiple resources for value before doing deep-dive into a single link. 
+
+ // Ask good questions. Advanced search option
+
+ // Bookmark any useful links. Can you use it in the future.Instead of having bunch of tabs open 
+
+ // Share anything that you find 
+
+ // Post any questions or thoughts
+ 
+ // The prime is community Resource
