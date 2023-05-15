@@ -1,7 +1,7 @@
 console.log('hello');
-// **************************//
-// Array *************//
-// **************************//
+// ***************************************//
+//************* Array ********************//
+// ***************************************//
 
 // An array is a special variable, which can hold more than one value:
 // Also can select on of the Index of the Array
